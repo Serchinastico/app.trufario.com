@@ -1,0 +1,23 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "36J7N348AD.com.trufario.app",
+        "paths": [
+          "/share/*"
+        ]
+      }
+    ]
+  },
+  "activitycontinuation": {
+    "apps": [
+      "36J7N348AD.com.trufario.app"
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "36J7N348AD.com.trufario.app"
+    ]
+  }
+}
