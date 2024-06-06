@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.trufario.app",
+      "sha256_cert_fingerprints": [
+        "E3:1A:C3:0F:DF:35:42:D2:FD:FE:63:0E:47:9B:3B:A2:C4:F2:9C:9B:93:7C:89:2F:46:13:7D:81:B8:79:FB:13"
+      ]
+    }
+  }
+]
